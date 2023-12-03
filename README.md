@@ -1,6 +1,13 @@
 # E-Commerce ByteByte Gadgets
-Este é um ecommerce para a empresa de projeto de portfolio ByteByteGadgets
+
+Este é um **e-commerce** para a empresa de projeto de portfolio _ByteByteGadgets_
 
 ## Funcionalidade:
 
-Checkout, Tela de produto, Catálogo, Home com banner
+_Checkout, **Tela de produto**, Catálogo, Home com banner_
+
+__Checkout, _Tela de produto_, Catálogo, Home com banner__
+
+### Melhorias do projeto:
+
+__Melhoria 1__, _melhoria 2_
