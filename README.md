@@ -32,3 +32,7 @@ __Melhoria 1__, _melhoria 2_
         1. Mastercard
         2. Visa
 3. Sistema de bônus primeira compra
+
+#### Imagem local
+
+![Logo do Python](img/python.png)
